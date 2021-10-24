@@ -1,0 +1,8 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(376,5): warning MSB8004: Intermediate 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Intermediate 目錄。
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: Output 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Output 目錄。
+  main.c
+d:\桌面\北科\高階程式實習\hw_ch2\110360215_陳暘\4.31\source\main.c(10): warning C4013: 'x' 未定義; 假設 extern 傳回整數
+d:\桌面\北科\高階程式實習\hw_ch2\110360215_陳暘\4.31\source\main.c(14): warning C4013: 'z' 未定義; 假設 extern 傳回整數
+d:\桌面\北科\高階程式實習\hw_ch2\110360215_陳暘\4.31\source\main.c(36): warning C4716: 'z': 必須傳回值
+d:\桌面\北科\高階程式實習\hw_ch2\110360215_陳暘\4.31\source\main.c(40): warning C4716: 'x': 必須傳回值
+  HW.vcxproj -> D:\桌面\北科\高階程式實習\HW_CH2\110360215_陳暘\4.31\HW\HW\..\..\temp\debug\HW.exe
